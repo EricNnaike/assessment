@@ -1,2 +1,2 @@
-# paradigm-assessment
+assessment
 Assessment 
